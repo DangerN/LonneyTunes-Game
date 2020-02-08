@@ -5,8 +5,8 @@ function Navbar(props){
     return(
     <div>
     <nav className="navbar navbar-expand-lg">
-        <h1>Looney Tunes Click Game!</h1>
-        <h4>{props.score} | {props.highscore}</h4>
+        <h1 className="mr-5">Looney Tunes Click Game!</h1>
+        <h2> Score: {props.score} |  Highscore: {props.highscore}</h2>
 
     </nav>
     </div>

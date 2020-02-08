@@ -9,10 +9,9 @@ class App extends Component{
     state={
         looney,
         highscore:0,
-        score:0
+        score:0,
+        answer:[]
     }
-
-    
     render(){
         return(
     <div>
