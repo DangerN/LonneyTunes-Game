@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/css/main.f05a0c94.chunk.css",
+    "main.js": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/main.cd7dae6e.chunk.js",
+    "main.js.map": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/main.cd7dae6e.chunk.js.map",
+    "runtime-main.js": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/runtime-main.42c22f70.js",
+    "runtime-main.js.map": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/runtime-main.42c22f70.js.map",
+    "static/js/2.b43f8c0c.chunk.js": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/2.b43f8c0c.chunk.js",
+    "static/js/2.b43f8c0c.chunk.js.map": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/2.b43f8c0c.chunk.js.map",
+    "index.html": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/index.html",
+    "precache-manifest.2bae70c741bc83b684ec0dd410f2657f.js": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/precache-manifest.2bae70c741bc83b684ec0dd410f2657f.js",
+    "service-worker.js": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/service-worker.js",
+    "static/css/main.f05a0c94.chunk.css.map": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/css/main.f05a0c94.chunk.css.map",
+    "static/js/2.b43f8c0c.chunk.js.LICENSE.txt": "/looneytunes/images/e/e5/Gunfade.gif/revision/latest/scale-to-width-down/250/static/js/2.b43f8c0c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42c22f70.js",
+    "static/js/2.b43f8c0c.chunk.js",
+    "static/css/main.f05a0c94.chunk.css",
+    "static/js/main.cd7dae6e.chunk.js"
+  ]
+}
